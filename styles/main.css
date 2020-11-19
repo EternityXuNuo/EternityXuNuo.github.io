@@ -2348,11 +2348,11 @@ pre code {
   font-size: 13px;
 }
 .theme-dark pre {
-  background: #292a2d;
+  background: #FFF;
 }
 .theme-dark code {
   border: 1px solid #3d3c41;
-  background-color: #292a2d;
+  background-color: #FFF;
 }
 figure {
   margin: 0;
