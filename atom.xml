@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eternityxunuo.github.io/</id>
     <title>Eternity许诺的杂货铺</title>
-    <updated>2020-12-13T00:20:30.297Z</updated>
+    <updated>2021-02-27T17:03:11.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eternityxunuo.github.io/"/>
     <link rel="self" href="https://eternityxunuo.github.io/atom.xml"/>
     <subtitle>知足而常乐</subtitle>
     <logo>https://eternityxunuo.github.io/images/avatar.png</logo>
     <icon>https://eternityxunuo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Eternity许诺的杂货铺</rights>
+    <rights>All rights reserved 2021, Eternity许诺的杂货铺</rights>
     <entry>
         <title type="html"><![CDATA[12.13国家公祭日]]></title>
         <id>https://eternityxunuo.github.io/post/1213-guo-jia-gong-ji-ri/</id>
