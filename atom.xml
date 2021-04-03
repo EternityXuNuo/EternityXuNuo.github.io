@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eternityxunuo.github.io/</id>
     <title>Eternity许诺的杂货铺</title>
-    <updated>2021-04-03T06:35:07.207Z</updated>
+    <updated>2021-04-03T06:35:48.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eternityxunuo.github.io/"/>
     <link rel="self" href="https://eternityxunuo.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://eternityxunuo.github.io/images/avatar.png</logo>
     <icon>https://eternityxunuo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Eternity许诺的杂货铺</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://eternityxunuo.github.io/post/test/</id>
+        <link href="https://eternityxunuo.github.io/post/test/">
+        </link>
+        <updated>2021-04-03T06:35:25.000Z</updated>
+        <content type="html"><![CDATA[<p>test<img src="https://eternityxunuo.github.io//post-images/1617431741865.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
 </feed>
